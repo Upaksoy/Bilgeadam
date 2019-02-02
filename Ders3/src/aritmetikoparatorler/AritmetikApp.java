@@ -4,7 +4,13 @@ public class AritmetikApp {
 
     public static void main(String[] args) {
 
-        system.out.println("Merhaba ilk branch");
+        /*
+            ctrl+alt+a gite ekleme islemi
+            ctrl+shift+k push kısayolu
+            sag alt koseden yeni branch acılabilir
+             */
+
+        System.out.println("Merhaba ilk branch");
 
 
 
