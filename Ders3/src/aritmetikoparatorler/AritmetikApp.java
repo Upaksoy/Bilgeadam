@@ -49,6 +49,12 @@ public class AritmetikApp {
         System.out.println("(Mod Alma) sayının kalanını bulma ıslemı: "+sonuc);
 
 
+        a=a+b;
+        System.out.println("Normal atama: "+a);
+        a=7;
+        a+=b;
+        System.out.println("aritmetik atama: " +a);
+
 
 
 
